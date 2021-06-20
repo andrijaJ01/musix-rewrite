@@ -1,0 +1,6 @@
+[project]
+name = "Musix"
+description = "Musix is music bot written in python that utilizes ffmpeg and youtube-dl"
+version = "0.0.1"
+author = "Andrija Jovanovic"
+token="token"

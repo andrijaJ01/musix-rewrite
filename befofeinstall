@@ -1,0 +1,2 @@
+pkg install clang python libffi openssl libsodium
+SODIUM_INSTALL=system 
